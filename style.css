@@ -14,16 +14,11 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
-
 .mask{
     -webkit-mask-image: url(./img/images.png);
-    mask-image: url(./img/images.png);
-  }
-
-
-
-
-
+    mask-image: url(./img/instagram-brands-solid.png);
+    mask-repeat: no-repeat;
+}
 .wraper{
     margin-top: 100px;
     margin-left: 100px;
