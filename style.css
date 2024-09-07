@@ -3,14 +3,14 @@
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 1; 
+    /* -webkit-line-clamp: 1;  */
 }
 .owerflov p{
     width: 100px;
     background-color: aqua;
     white-space: nowrap;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 5;
+    /* -webkit-line-clamp: 5; */
     overflow: hidden;
     text-overflow: ellipsis;
 }
