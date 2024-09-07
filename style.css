@@ -1,11 +1,11 @@
-/* .owerflov p{
+.owerflov p{
     width: 300px;
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 1; 
-} */
-/* .owerflov p{
+}
+.owerflov p{
     width: 100px;
     background-color: aqua;
     white-space: nowrap;
@@ -13,12 +13,12 @@
     -webkit-line-clamp: 5;
     overflow: hidden;
     text-overflow: ellipsis;
-} */
+}
 
-/* .mask{
+.mask{
     -webkit-mask-image: url(./img/images.png);
     mask-image: url(./img/images.png);
-  } */
+  }
 
 
 
